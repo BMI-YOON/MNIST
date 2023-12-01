@@ -1,1 +1,1 @@
-# hsyoon
+# MNIST classification with Python.
