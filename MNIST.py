@@ -5,7 +5,9 @@ Created on Tue Oct 31 17:11:12 2023
 
 @author: yoon
 
-Thanks to https://velog.io/@clayryu328
+Thanks to 
+https://github.com/WegraLee/deep-learning-from-scratch 
+https://velog.io/@clayryu328
 """
 import sys, os
 sys.path.append(os.pardir) # 부모 디렉터리의 파일을 가져올 수 있도록 설정
