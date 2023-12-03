@@ -1,1 +1,3 @@
-# MNIST classification with Python.
+# Basic deep learning functions and layers
+# MNIST classification
+# With python / without pytorch
